@@ -1,2 +1,2 @@
 # PVolt
-VeCan ESM32
+PVolt battery software 
